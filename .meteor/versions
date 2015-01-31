@@ -34,6 +34,7 @@ coffeescript@1.0.5
 dburles:collection-helpers@1.0.2
 ddp@1.0.14
 deps@1.0.6
+dsyko:jquery-ui-touch-punch@1.2.4
 ejson@1.0.5
 email@1.0.5
 fastclick@1.0.2
